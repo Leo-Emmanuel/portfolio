@@ -1,2 +1,18 @@
 day 1 : 06/02/25
+
 How to Create/Push a folder in GIT
+
+
+day 2 :07/02/25
+
+HTML Structure:
+
+There’s a header with a navigation bar linking to different sections of the page: About, Projects, and Contact.
+Each section is separated with <section> tags and has content like text or descriptions.
+The footer contains copyright information.
+CSS Styling:
+
+Basic styling for typography and layout.
+
+The header and footer have a dark background, while the main sections have a lighter background.
+Flexbox is used to align the navigation links.
