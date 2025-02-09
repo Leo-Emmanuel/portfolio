@@ -16,3 +16,9 @@ Basic styling for typography and layout.
 
 The header and footer have a dark background, while the main sections have a lighter background.
 Flexbox is used to align the navigation links.
+
+day 3 :09/02/25
+
+Responsive Design: The navigation now adapts to mobile screens without needing JavaScript.
+Social Media Links: Added LinkedIn and GitHub links in the footer for networking.
+Project Links: Added GitHub and live demo links for each project to showcase your work.
